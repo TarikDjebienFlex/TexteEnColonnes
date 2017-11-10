@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+			   xmlns:s="library://ns.adobe.com/flex/spark" 
+			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
+	<fx:Declarations>
+		<!-- Placer ici les éléments non visuels (services et objets de valeur, par exemple). -->
+	</fx:Declarations>
+	
+	
+	
+	<s:RichEditableText top="10" horizontalCenter="0"
+						width="600" height="400"
+						columnCount="3" columnGap="10" columnWidth="180">
+		
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elit velit, tempor sed vestibulum id, consectetur a risus. Phasellus et metus nec quam consequat fermentum. Fusce sed orci augue. Nunc vel magna mi, ut cursus sapien. Praesent congue pharetra nisi, sit amet dictum massa viverra ut. Fusce egestas lobortis felis in commodo. Nam vehicula tristique erat sed lobortis. Etiam semper nibh non sapien auctor a fermentum metus scelerisque. Pellentesque vehicula pulvinar cursus. Nam convallis porta dui, vitae fermentum ipsum suscipit ut. Aliquam suscipit euismod accumsan. Praesent fermentum, nunc ac hendrerit placerat, lacus velit fringilla tortor, quis tristique urna velit nec nunc. Nunc fringilla auctor congue. Sed eget tempus ipsum. 
+		
+		Praesent non turpis tellus, sed adipiscing lorem. In pharetra, nibh eget tincidunt accumsan, erat massa viverra massa, ac vulputate quam nunc vitae odio. Donec vel ultricies sem. Cras tellus odio, adipiscing et porta scelerisque, aliquam sit amet nisi. Donec pretium risus id erat suscipit nec tempor metus tempus. Cras congue eros a nisi consequat sit amet vulputate diam dignissim. Proin congue risus eu nibh porttitor dictum. Donec id suscipit ligula. Donec nec velit ut tellus rutrum facilisis eu accumsan dolor. Nulla vulputate ullamcorper arcu a lacinia. Nam consectetur sem at mi rhoncus quis viverra leo hendrerit. Pellentesque tincidunt felis non purus dapibus aliquet. Vivamus in velit tortor, at pretium nunc. Ut rutrum, ante non faucibus ultrices, mi urna feugiat nibh, ut sagittis tortor diam nec tortor. Nullam lobortis lorem in nulla semper aliquet placerat arcu suscipit. Cras iaculis laoreet pulvinar. 
+		
+		Aliquam et elit ac ante tincidunt porttitor. Sed et odio tortor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus mauris neque, vestibulum at feugiat et, ornare eu ligula. Praesent neque ipsum, mollis vitae vulputate id, convallis ut libero. Praesent ullamcorper nulla sed massa sollicitudin id scelerisque nibh molestie. Pellentesque quam libero, adipiscing quis tincidunt eget, porta nec nulla. Pellentesque sed neque lectus, vitae tincidunt enim. Aliquam sed magna metus. Curabitur et tellus in turpis mollis scelerisque. Proin at tincidunt diam. Aenean facilisis est et urna pharetra varius luctus nisl pellentesque. In tristique lobortis nunc, ut semper elit tempus vel. Integer mattis fringilla nisi non ornare. Proin at dictum libero. Proin dignissim varius sem, sit amet accumsan metus posuere et. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer dignissim elit nec libero aliquam venenatis. 
+		
+	</s:RichEditableText>
+	
+	
+</s:Application>
